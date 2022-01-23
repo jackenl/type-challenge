@@ -1,3 +1,3 @@
-<p align="center" style="font-size:25px;">Typescript Type Challenge</p>
+## TypeScript Type Challenges
 
-<P align="center">This is a Typesciprt Type Challenge for <a href="https://github.com/type-challenges/type-challenges">Type Challenge</a></p>
+This is an TypeScript Type Challenges for [Type Challenges](https://github.com/type-challenges/type-challenges)
